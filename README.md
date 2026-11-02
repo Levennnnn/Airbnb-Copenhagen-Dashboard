@@ -4,7 +4,7 @@
 This data analysis project translates raw data into actionable business strategies to support Airbnb's strategic goals, focusing on market growth, host engagement, and regulatory compliance.
 
 ## Dashboard Preview
-     <img src="https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/blob/main/preview.png" width="600">
+   <img src="https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/blob/main/preview.png" width="600">
 
 ## Key Findings
 * **Pricing & Demand:** Listings priced between DKK 1,000 - 1,500 per night are the most in demand. Additionally, properties offering Instant Booking correlate with higher pricing power.
@@ -22,7 +22,7 @@ Based on the data, we recommend the following strategic actions for the Copenhag
 * **Data Cleaning (Python):** Handled inconsistencies, removed redundant columns, and standardized variables across raw datasets (listings, calendar, reviews).
 * **Data Storage (SQL):** Designed and transformed the cleaned dataset into a Star Schema to enable efficient analytical querying.
 
-      <img src="https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/blob/main/star%20schema.png" width="600">
+     <img src="https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/blob/main/star%20schema.png" width="600">
 
 * **Data Visualization (Power BI / Tableau):** Developed a comprehensive dashboard containing 6 core visualizations for executive reporting.
 
