@@ -19,13 +19,13 @@ Based on the data, we recommend the following strategic actions for the Copenhag
 * **Pricing Strategy:** Guide hosts toward the DKK 1,000 - 1,500 sweet spot to maximize overall booking rates.
 
 ## Data Pipeline
-* **Data Cleaning (Python):** Handled inconsistencies, removed redundant columns, and standardized variables across raw datasets (`listings`, `calendar`, `reviews`).
+* **Data Cleaning (Python):** Handled inconsistencies, removed redundant columns, and standardized variables across raw datasets (listings, calendar, reviews).
 * **Data Storage (SQL):** Designed and transformed the cleaned dataset into a Star Schema to enable efficient analytical querying.
 * **Data Visualization (Power BI / Tableau):** Developed a comprehensive dashboard containing 6 core visualizations for executive reporting.
 
 ## How to View This Project
 To interact with the data model, cross-filter charts, and explore the visualizations locally:
 
-1. Download the source file: **[Copenhagen_Airbnb_Dashboard.pbix](https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/raw/main/Power%20BI%20-%20Airbnb%20Copenhagen%20Dashboard.pbix)** or **[Copenhagen_Airbnb_Dashboard.twbx](Link_to_your_twbx_file)**.
-2. Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) or [Tableau Desktop](https://www.tableau.com/products/desktop) installed on your machine.
+1. Download the source file: **[Copenhagen_Airbnb_Dashboard.pbix](https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/raw/main/Power%20BI%20-%20Airbnb%20Copenhagen%20Dashboard.pbix)** or **[Copenhagen_Airbnb_Dashboard.twbx](https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/raw/main/Tableau%20-%20Airbnb%20Copenhagen%20Dashboard.twbx)**.
+2. Ensure you have Power BI Desktop or Tableau Desktop installed on your machine.
 3. Open the downloaded file to view the full functionality.
