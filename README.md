@@ -4,7 +4,6 @@
 This data analysis project translates raw data into actionable business strategies to support Airbnb's strategic goals, focusing on market growth, host engagement, and regulatory compliance.
 
 ## Dashboard Preview
-![Dashboard Overview](preview.png)
 
 ## Key Findings
 * **Pricing & Demand:** Listings priced between DKK 1,000 - 1,500 per night are the most in demand. Additionally, properties offering Instant Booking correlate with higher pricing power.
