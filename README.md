@@ -7,16 +7,16 @@ This is a data analysis project and interactive dashboard. This project translat
 ![Dashboard Overview](preview.png)
 
 ## Key Findings
-* **Pricing & Demand:** Listings priced between DKK 1,000 - 1,500 per night are the most in demand. The most popular neighborhoods are Nørrebro, Indre By, Vesterbro, and Frederiksberg.
-* **Host Dynamics:** Host signups have declined sharply since 2015. The vast majority of hosts manage only 1 listing, and there is surprisingly low occupancy among Superhosts.
-* **Market Gaps & Compliance:** There is significant untapped growth potential in the luxury listings segment. Additionally, the data shows the average maximum stay limit currently exceeds Denmark’s legal regulations.
+* **Pricing & Demand:** Listings priced between DKK 1,000 - 1,500 per night are the most in demand. Additionally, properties offering Instant Booking correlate with higher pricing power.
+* **Host Dynamics:** Host signups have declined sharply since 2015. Most hosts manage only 1 listing, and Superhosts account for merely 10% of the market, hindered by strict platform criteria.
+* **Market Gaps & Compliance:** There is significant untapped growth potential in the luxury listings segment. Furthermore, the average maximum stay limit set by hosts (352.5 nights) significantly exceeds Denmark’s legal regulations (70-100 nights).
 
 ## Business Recommendations
 Based on the data, we recommend the following strategic actions for the Copenhagen market:
-* **Optimize Market Segments:** Expand the luxury listing segment and deploy neighborhood-specific marketing strategies.
-* **Revamp Host Engagement:** Introduce initiatives to boost new host signups, improve host performance metrics, and actively support the growth and visibility of Superhosts.
-* **Regulatory Compliance:** Proactively address legal restrictions regarding maximum stay limits to avoid penalties.
-* **Pricing Strategy:** Guide hosts toward the DKK 1,000 - 1,500 sweet spot to maximize overall booking rates.
+* **Optimize Market Segments:** Expand the luxury listing segment with clear labeling, and deploy targeted marketing in top neighborhoods (Nørrebro, Indre By, etc.) while developing selling points for less popular areas.
+* **Revamp Host Engagement:** Incentivize co-host participation to boost supply, provide automated tools to improve host response rates, and lower barriers (or provide education) to increase the Superhost population.
+* **Regulatory Compliance:** Proactively educate hosts and implement system restrictions to ensure maximum stay limits comply with the 70-100 nights regulation.
+* **Pricing Strategy:** Guide standard listings toward the DKK 1,000 - 1,500 sweet spot and actively encourage hosts to enable Instant Booking to maximize revenue.
 
 ## Data Pipeline
 * **Data Cleaning (Python):** Handled inconsistencies, removed redundant columns, and standardized variables across raw datasets (listings, calendar, reviews).
