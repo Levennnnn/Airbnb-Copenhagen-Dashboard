@@ -26,6 +26,6 @@ Based on the data, we recommend the following strategic actions for the Copenhag
 ## How to View This Project
 To interact with the data model, cross-filter charts, and explore the visualizations locally:
 
-1. Download the source file: **[Copenhagen_Airbnb_Dashboard.pbix]([Link_to_your_pbix_file](https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/raw/main/Power%20BI%20-%20Airbnb%20Copenhagen%20Dashboard.pbix))** or **[Copenhagen_Airbnb_Dashboard.twbx](Link_to_your_twbx_file)**.
+1. Download the source file: **[Copenhagen_Airbnb_Dashboard.pbix](https://github.com/Levennnnn/Airbnb-Copenhagen-Dashboard/raw/main/Power%20BI%20-%20Airbnb%20Copenhagen%20Dashboard.pbix)** or **[Copenhagen_Airbnb_Dashboard.twbx](Link_to_your_twbx_file)**.
 2. Ensure you have [Power BI Desktop](https://powerbi.microsoft.com/desktop/) or [Tableau Desktop](https://www.tableau.com/products/desktop) installed on your machine.
 3. Open the downloaded file to view the full functionality.
