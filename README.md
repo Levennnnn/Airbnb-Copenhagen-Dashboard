@@ -1,7 +1,7 @@
 # Airbnb Copenhagen Market Analysis
 
 ## Project Overview
-This is a data analysis project and interactive dashboard. This project translates raw data into actionable business strategies to support Airbnb's strategic goals, focusing on market growth, host engagement, and regulatory compliance.
+This data analysis project translates raw data into actionable business strategies to support Airbnb's strategic goals, focusing on market growth, host engagement, and regulatory compliance.
 
 ## Dashboard Preview
 ![Dashboard Overview](preview.png)
